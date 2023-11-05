@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    margin-left: 120px;
+}
+th{
+    font-size: 20px;
+    text-transform: capitalize;
+    background-color: chartreuse;
+}
+td{
+    background-color: blueviolet;
+    color: aliceblue;
+}
